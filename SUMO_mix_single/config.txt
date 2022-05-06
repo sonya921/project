@@ -1,0 +1,12 @@
+tau; normal(1.4,0)
+minGap;normal(2.2,0)
+accel; normal(1.8,0)
+carFollowModel; IDM
+jmStoplineGap;normal(4,0)
+delta; normal(3,0)
+decel;normal(4.5,0)
+maxSpeed;normal(14,0)
+
+
+
+
